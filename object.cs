@@ -6,4 +6,8 @@ public class BTNode<T>
   public T Data {get; set;}
   public BTNode Left {get; set;}
   public BTNode Right {get; set;}
+
+  public void InOrderTraversal(){
+    
+  }
 }
